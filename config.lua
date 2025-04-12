@@ -670,19 +670,6 @@ Config.Garages = {
         type = 'public',
         category = Config.VehicleClass['car']
     },
-    privatehomegarage13 = { --- Dagger House
-        label = 'Parking',
-        takeVehicle = vector3(-884.51, 356.22, 84.88),
-        spawnPoint = {
-            vector4(-887.29, 356.9, 84.88, 348.77)
-        },
-        showBlip = false,
-        blipName = 'Public Parking',
-        blipNumber = 357,
-        blipColor = 3,
-        type = 'public',
-        category = Config.VehicleClass['car']
-    },
     privatehomegarage14 = { --- La Fuenta Mansion
         label = 'Parking',
         takeVehicle = vector3(1408.17, 1112.42, 114.83),
